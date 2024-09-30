@@ -93,19 +93,18 @@
   }
 
   .hero__description {
-    font-size: var(--size-large);
+    font-size: var(--size-lg);
   }
 
   .hero__btn {
-    font-size: var(--size-large);
+    font-size: var(--size-lg);
   }
 }
 
 /* xl */
 @media (min-width: 1280px) {
-
   .hero {
-    gap: 2rem   ;
+    gap: 2rem;
   }
 
   .hero__img {
