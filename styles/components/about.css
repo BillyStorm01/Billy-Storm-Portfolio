@@ -1,3 +1,12 @@
+.about__tech-icons {
+  font-size: 3rem;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  gap: 0.5rem;
+}
+
 .about {
   display: flex;
   flex-direction: column;
@@ -82,6 +91,14 @@
   .about__list {
     font-size: var(--size-base);
   }
+
+  .about__tech-icons {
+    font-size: 3.5rem;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 0.5rem;
+  }
 }
 
 /* sm */
@@ -92,6 +109,14 @@
 
   .about__img {
     width: 28.6875rem;
+  }
+
+  .about__tech-icons {
+    font-size: 3.8rem;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 0.5rem;
   }
 }
 
