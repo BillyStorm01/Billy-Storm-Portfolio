@@ -8,13 +8,6 @@
   margin-top: 2rem;
 }
 
-
-.hero__img {
-  border-radius: 50%;
-  width: 7rem;
-  height: 7rem;
-}
-
 .hero__subtitle {
   color: var(--clr-slate800);
   font-size: var(--size-base);
