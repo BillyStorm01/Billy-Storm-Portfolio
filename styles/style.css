@@ -91,3 +91,12 @@ body::-webkit-scrollbar-thumb {
   background-color: var(--clr-rose);
   outline: 1px solid var(--clr-rose);
 }
+
+.footer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  color: var(--clr-slate600);
+}
